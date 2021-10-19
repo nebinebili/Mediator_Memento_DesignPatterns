@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\bin\Debug\net5.0\Memento.exe
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\bin\Debug\net5.0\Memento.deps.json
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\bin\Debug\net5.0\Memento.runtimeconfig.json
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\bin\Debug\net5.0\Memento.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\bin\Debug\net5.0\Memento.dll
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\bin\Debug\net5.0\ref\Memento.dll
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\bin\Debug\net5.0\Memento.pdb
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\Memento.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\Memento.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\Memento.dll
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\ref\Memento.dll
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\Memento.pdb
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\Memento.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Memento\obj\Debug\net5.0\Memento.csproj.AssemblyReference.cache

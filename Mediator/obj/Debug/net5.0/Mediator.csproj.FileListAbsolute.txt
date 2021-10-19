@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\bin\Debug\net5.0\Mediator.exe
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\bin\Debug\net5.0\Mediator.deps.json
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\bin\Debug\net5.0\Mediator.runtimeconfig.json
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\bin\Debug\net5.0\Mediator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\bin\Debug\net5.0\Mediator.dll
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\bin\Debug\net5.0\ref\Mediator.dll
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\bin\Debug\net5.0\Mediator.pdb
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\Mediator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\Mediator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\Mediator.dll
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\ref\Mediator.dll
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\Mediator.pdb
+C:\Users\Admin\source\repos\Memento_Mediator_DesignPatterns\Mediator\obj\Debug\net5.0\Mediator.genruntimeconfig.cache
